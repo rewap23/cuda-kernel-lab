@@ -1,0 +1,12 @@
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+results/raw/*.csv
+results/figures/*.png
+.DS_Store
+.vscode/
