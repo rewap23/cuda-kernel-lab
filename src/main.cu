@@ -37,4 +37,3 @@ int main() {
     std::cout << "PASS: vector addition output matches CPU reference.\n";
     return 0;
 }
-}
